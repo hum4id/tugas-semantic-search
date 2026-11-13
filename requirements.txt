@@ -1,0 +1,4 @@
+fastapi[standard]
+sentence-transformers
+qdrant-client
+httpx

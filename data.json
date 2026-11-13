@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Rendang",
+    "text": "Rendang adalah daging sapi yang dimasak perlahan dengan santan dan bumbu rempah selama berjam-jam hingga kuahnya habis, warnanya cokelat gelap, dan dagingnya awet disimpan.",
+    "category": "makanan_utama",
+    "region": "Sumatera Barat"
+  },
+  {
+    "name": "Gudeg",
+    "text": "Gudeg adalah nangka muda yang dimasak lama dengan gula aren, santan, dan daun jati sehingga rasanya manis dan warnanya cokelat kemerahan.",
+    "category": "makanan_utama",
+    "region": "Yogyakarta"
+  },
+  {
+    "name": "Nasi Goreng",
+    "text": "Nasi goreng adalah nasi yang ditumis di wajan panas bersama kecap manis, bawang merah, bawang putih, dan cabai, lalu biasanya disajikan dengan telur ceplok dan kerupuk.",
+    "category": "makanan_utama",
+    "region": "Nasional"
+  },
+  {
+    "name": "Ayam Betutu",
+    "text": "Ayam betutu adalah ayam utuh yang dilumuri bumbu base genep yang pedas, dibungkus daun pisang, lalu dipanggang atau dikukus berjam-jam hingga bumbunya meresap.",
+    "category": "makanan_utama",
+    "region": "Bali"
+  },
+  {
+    "name": "Gado-gado",
+    "text": "Gado-gado adalah campuran sayuran rebus, tahu, tempe, lontong, dan telur rebus yang disiram saus kacang kental lalu ditaburi kerupuk.",
+    "category": "makanan_utama",
+    "region": "DKI Jakarta"
+  },
+  {
+    "name": "Nasi Liwet",
+    "text": "Nasi liwet adalah nasi yang ditanak bersama santan, serai, dan daun salam sehingga gurih dan harum, lalu disantap dengan suwiran ayam, telur, dan sayur labu siam.",
+    "category": "makanan_utama",
+    "region": "Jawa Tengah"
+  },
+  {
+    "name": "Sate Madura",
+    "text": "Sate Madura adalah potongan daging ayam atau kambing yang ditusuk bilah bambu, dibakar di atas bara arang, lalu disiram bumbu kacang dan kecap manis.",
+    "category": "makanan_utama",
+    "region": "Jawa Timur"
+  },
+  {
+    "name": "Ayam Taliwang",
+    "text": "Ayam taliwang adalah ayam kampung muda yang dibakar dengan olesan bumbu cabai merah kering, bawang, dan terasi sehingga rasanya sangat pedas dan gurih.",
+    "category": "makanan_utama",
+    "region": "Nusa Tenggara Barat"
+  },
+  {
+    "name": "Nasi Uduk",
+    "text": "Nasi uduk adalah nasi yang dimasak dengan santan dan rempah seperti serai dan lengkuas, umumnya dimakan saat sarapan bersama bihun goreng, tempe orek, dan sambal kacang.",
+    "category": "makanan_utama",
+    "region": "DKI Jakarta"
+  },
+  {
+    "name": "Soto Betawi",
+    "text": "Soto Betawi adalah soto berkuah santan dan susu yang berwarna putih kekuningan, berisi potongan daging dan jeroan sapi, tomat, serta emping.",
+    "category": "sup_dan_soto",
+    "region": "DKI Jakarta"
+  },
+  {
+    "name": "Rawon",
+    "text": "Rawon adalah sup daging sapi berkuah hitam pekat karena menggunakan bumbu kluwek, disajikan dengan tauge pendek, telur asin, dan sambal.",
+    "category": "sup_dan_soto",
+    "region": "Jawa Timur"
+  },
+  {
+    "name": "Sop Konro",
+    "text": "Sop konro adalah sup iga sapi berkuah cokelat kehitaman dari kluwek dan rempah seperti kayu manis dan pala, biasanya dimakan dengan buras.",
+    "category": "sup_dan_soto",
+    "region": "Sulawesi Selatan"
+  },
+  {
+    "name": "Sroto Sokaraja",
+    "text": "Sroto Sokaraja adalah soto berisi daging sapi atau ayam, ketupat, dan tauge yang kuahnya dicampur sambal kacang serta ditaburi kerupuk warna-warni.",
+    "category": "sup_dan_soto",
+    "region": "Banyumas, Jawa Tengah"
+  },
+  {
+    "name": "Soto Lamongan",
+    "text": "Soto Lamongan adalah soto ayam berkuah kuning bening dari kunyit yang ditaburi koya, yaitu bubuk kerupuk udang dan bawang putih goreng.",
+    "category": "sup_dan_soto",
+    "region": "Jawa Timur"
+  },
+  {
+    "name": "Sayur Asem",
+    "text": "Sayur asem adalah sayur berkuah segar dengan rasa asam dari asam jawa, berisi kacang panjang, labu siam, jagung manis, dan melinjo.",
+    "category": "sup_dan_soto",
+    "region": "Jawa Barat"
+  },
+  {
+    "name": "Coto Makassar",
+    "text": "Coto Makassar adalah hidangan berkuah dari daging dan jeroan sapi dengan kuah kental yang diberi kacang tanah sangrai, disantap bersama ketupat.",
+    "category": "sup_dan_soto",
+    "region": "Sulawesi Selatan"
+  },
+  {
+    "name": "Tengkleng",
+    "text": "Tengkleng adalah masakan tulang dan iga kambing yang masih menyisakan daging, dimasak dengan kuah rempah encer yang mirip gulai tetapi tanpa santan kental.",
+    "category": "sup_dan_soto",
+    "region": "Surakarta, Jawa Tengah"
+  },
+  {
+    "name": "Sop Buntut",
+    "text": "Sop buntut adalah sup ekor sapi berkuah bening dengan potongan wortel, kentang, dan daun bawang, beraroma pala dan cengkih.",
+    "category": "sup_dan_soto",
+    "region": "Nasional"
+  },
+  {
+    "name": "Mendoan",
+    "text": "Mendoan adalah tempe yang diiris tipis lebar, dicelup adonan tepung berbumbu dan daun bawang, lalu digoreng sebentar sehingga teksturnya lembek, biasanya dicocol sambal kecap.",
+    "category": "jajanan",
+    "region": "Banyumas, Jawa Tengah"
+  },
+  {
+    "name": "Pempek",
+    "text": "Pempek adalah olahan ikan tenggiri giling dan sagu yang direbus lalu digoreng, kemudian disajikan dengan kuah cuko yang asam, manis, dan pedas.",
+    "category": "jajanan",
+    "region": "Sumatera Selatan"
+  },
+  {
+    "name": "Klepon",
+    "text": "Klepon adalah bola-bola kecil dari tepung ketan berwarna hijau pandan berisi gula merah cair yang lumer saat digigit, lalu dibalut kelapa parut.",
+    "category": "jajanan",
+    "region": "Jawa"
+  },
+  {
+    "name": "Martabak Manis",
+    "text": "Martabak manis atau terang bulan adalah kue dari adonan tebal yang dipanggang di loyang besi, lalu diolesi mentega dan diisi cokelat, keju, atau kacang.",
+    "category": "jajanan",
+    "region": "Nasional"
+  },
+  {
+    "name": "Getuk",
+    "text": "Getuk adalah kue tradisional dari singkong rebus yang ditumbuk halus bersama gula, kadang diberi pewarna, lalu disajikan dengan taburan kelapa parut.",
+    "category": "jajanan",
+    "region": "Jawa Tengah"
+  },
+  {
+    "name": "Serabi",
+    "text": "Serabi adalah kue dadar tebal dari tepung beras dan santan yang dimasak di cetakan tanah liat di atas tungku, dengan pinggiran yang renyah.",
+    "category": "jajanan",
+    "region": "Jawa Barat dan Jawa Tengah"
+  },
+  {
+    "name": "Cireng",
+    "text": "Cireng adalah camilan dari tepung tapioka atau aci yang dibentuk pipih lalu digoreng hingga renyah di luar dan kenyal di dalam, dimakan dengan bumbu rujak.",
+    "category": "jajanan",
+    "region": "Jawa Barat"
+  },
+  {
+    "name": "Lumpia Semarang",
+    "text": "Lumpia Semarang adalah kulit lumpia tipis yang diisi tumisan rebung, telur, dan udang, lalu digoreng atau disajikan basah dengan saus kental dan daun bawang.",
+    "category": "jajanan",
+    "region": "Jawa Tengah"
+  },
+  {
+    "name": "Lapis Legit",
+    "text": "Lapis legit adalah kue berlapis-lapis tipis yang menggunakan banyak kuning telur, mentega, dan bubuk rempah spekuk, dipanggang satu lapis demi satu lapis.",
+    "category": "jajanan",
+    "region": "Nasional"
+  },
+  {
+    "name": "Wedang Jahe",
+    "text": "Wedang jahe adalah minuman hangat dari rebusan jahe dan gula merah yang terasa pedas di tenggorokan dan sering diminum saat cuaca dingin atau badan kurang fit.",
+    "category": "minuman",
+    "region": "Jawa"
+  },
+  {
+    "name": "Es Cendol",
+    "text": "Es cendol adalah minuman dingin berisi butiran hijau dari tepung beras dan daun pandan, disiram santan, gula merah cair, dan es serut.",
+    "category": "minuman",
+    "region": "Jawa Barat"
+  },
+  {
+    "name": "Bajigur",
+    "text": "Bajigur adalah minuman hangat dari santan, gula aren, dan jahe yang rasanya manis gurih, sering ditemani kacang rebus atau ubi rebus.",
+    "category": "minuman",
+    "region": "Jawa Barat"
+  },
+  {
+    "name": "Es Teler",
+    "text": "Es teler adalah minuman dingin berisi potongan alpukat, kelapa muda, dan nangka yang dicampur santan, sirup, susu kental manis, dan es.",
+    "category": "minuman",
+    "region": "Nasional"
+  },
+  {
+    "name": "Bandrek",
+    "text": "Bandrek adalah minuman hangat dari jahe, gula merah, serai, dan kayu manis yang terasa pedas dan menghangatkan tubuh di daerah pegunungan.",
+    "category": "minuman",
+    "region": "Jawa Barat"
+  },
+  {
+    "name": "Wedang Uwuh",
+    "text": "Wedang uwuh adalah minuman rempah dari kayu secang, jahe, cengkih, kayu manis, dan daun pala yang menghasilkan warna merah dan aroma kuat.",
+    "category": "minuman",
+    "region": "Yogyakarta"
+  },
+  {
+    "name": "Es Doger",
+    "text": "Es doger adalah es serut berwarna merah muda dari santan yang disajikan dengan tape singkong, ketan hitam, alpukat, dan susu kental manis.",
+    "category": "minuman",
+    "region": "DKI Jakarta"
+  },
+  {
+    "name": "Kopi Tubruk",
+    "text": "Kopi tubruk adalah kopi yang dibuat dengan menyeduh bubuk kopi kasar dan gula langsung dengan air mendidih tanpa disaring sehingga ampasnya mengendap di dasar gelas.",
+    "category": "minuman",
+    "region": "Jawa"
+  },
+  {
+    "name": "Jamu Kunyit Asam",
+    "text": "Jamu kunyit asam adalah minuman tradisional dari kunyit dan asam jawa dengan sedikit gula merah, rasanya asam segar dan berwarna kuning oranye.",
+    "category": "minuman",
+    "region": "Jawa"
+  }
+]
